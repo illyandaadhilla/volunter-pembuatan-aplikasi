@@ -7,3 +7,4 @@ Silakan gunakan format berikut:<br>
 
 Berikut adalah daftar Volunter yang diterima:
 * dhilla, [github.illyandaaa](https://github.com/illyandaaa).
+* fadhila, [github.fadhila](https://github.com/illyandaadhilla).
